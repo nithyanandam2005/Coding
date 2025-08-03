@@ -1,0 +1,34 @@
+.navbar {
+    background-color: black;
+    color: bisque;
+}
+
+.ui {
+    display: inline;
+    padding: 20px;
+    margin-left: 60%;
+    
+}
+
+.ux {
+    display: inline;
+    padding: 20px;
+
+}
+
+.hi {
+    display: inline;
+    padding: 20px;
+
+}
+
+.nav {
+    display: inline;
+    padding: 20px;
+}
+
+.ul {
+    display: inline;
+
+
+}
